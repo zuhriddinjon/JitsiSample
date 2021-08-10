@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JitsiSample</string>
+    <string name="join">Join</string>
+    <string name="enter_conference_name">Enter conference name...</string>
+</resources>
